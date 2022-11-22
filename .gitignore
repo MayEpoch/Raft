@@ -13,3 +13,5 @@ log/log?.txt
 term_info/term_info?.txt
 snapshot/snapshot?.txt
 last_include_info/last_include_info?.txt
+t.sh
+.ssh/
